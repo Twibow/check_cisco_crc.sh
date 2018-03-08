@@ -3,8 +3,7 @@ Nagios / Centreon check CRC error on Cisco Switch
 
 This plugin is a Fork of check_hp_crc.sh by Michael St
 
-Usage : 
-./check_hp_crc.sh -H HOSTADRESS -C <SNMP COMMUNITY> -v <SNMP VERSION> -w <NUMBER of CRC ERRORS> -c <NUMBER of CRC ERRORS>
+Usage : ./check_hp_crc.sh
 
 -H = Hostaddress
 -C = SNMP Community (optional, if not set we use public)
